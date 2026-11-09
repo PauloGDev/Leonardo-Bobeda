@@ -1,0 +1,1 @@
+export const defaultBrand = { logoText: "LB", colors: { primary: "#d6ad42", primaryStrong: "#c49a32", accent: "#dfbd6d", surface: "#ffffff", background: "#f5f2e9", text: "#102419", muted: "#59695d" }, fonts: { display: "Georgia, 'Times New Roman', serif", body: "Inter, Arial, sans-serif" }, radius: "4px" };

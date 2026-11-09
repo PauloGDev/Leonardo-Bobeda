@@ -24,6 +24,7 @@ O build gera `dist/` e inclui o conteúdo principal no HTML inicial por meio de 
 - `landing.data.json`: dados profissionais, contato, serviços e FAQ.
 - `src/modules/home/pages/HomePage.jsx`: seções da landing page.
 - `src/styles/index.css`: visual responsivo com verde e dourado da marca.
+- As entradas de seção usam `IntersectionObserver` e CSS; o conteúdo permanece visível sem JavaScript e as animações são desativadas quando o visitante prefere movimento reduzido.
 - `public/assets/`: imagens otimizadas, logo, favicon e imagem social.
 - `SEO.md`: posicionamento, verificações e pendências.
 

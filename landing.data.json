@@ -1,0 +1,92 @@
+{
+  "project": {
+    "name": "Leonardo Bobeda | BPC/LOAS",
+    "displayName": "Leonardo Bobeda Advocacia",
+    "conversionAction": "WhatsApp",
+    "slug": "leonardo-bobeda-bpc-loas",
+    "sourceTemplate": "Template 1",
+    "sourceVersion": "1.2.0"
+  },
+  "professional": {
+    "name": "Leonardo G. Bobeda",
+    "officeName": "Leonardo Bobeda Advocacia",
+    "oab": "OAB/RJ 211.500",
+    "area": "Direito previdenciário e assistencial",
+    "city": "Rio de Janeiro — RJ",
+    "biography": "Advogado inscrito na OAB/RJ sob o nº 211.500. Sua atuação em BPC/LOAS busca orientar famílias em situação de vulnerabilidade com escuta, respeito e responsabilidade. O trabalho inclui esclarecer requisitos, examinar documentos e explicar os caminhos possíveis em cada caso."
+  },
+  "contact": {
+    "whatsapp": "5521991113637",
+    "whatsappMessage": "Olá, Dr. Leonardo. Vim pelo site e gostaria de orientação sobre BPC/LOAS.",
+    "email": "leonardobobeda.adv@gmail.com",
+    "website": "https://bobeda.adv/"
+  },
+  "location": {
+    "city": "Rio de Janeiro — RJ",
+    "regions": "Rio de Janeiro — RJ",
+    "address": "",
+    "hours": "",
+    "mapsQuery": ""
+  },
+  "theme": {
+    "primary": "#d6ad42",
+    "secondary": "#102419",
+    "style": "Institucional, acolhedor e sóbrio"
+  },
+  "hero": {
+    "title": "BPC/LOAS: entenda seus direitos com orientação jurídica",
+    "description": "Para pessoas idosas, pessoas com deficiência e famílias de crianças com TEA. Se o pedido foi negado, suspenso ou ainda não foi feito, seu caso pode ser analisado individualmente.",
+    "cta": "Quero analisar meu caso"
+  },
+  "audience": "Pessoas idosas, pessoas com deficiência e famílias que buscam orientação sobre BPC/LOAS",
+  "services": [
+    {
+      "title": "Crianças e adolescentes com TEA",
+      "description": "O diagnóstico pode integrar a avaliação, junto dos impedimentos de longo prazo e da situação socioeconômica da família.",
+      "image": "/assets/crianca-tea.webp",
+      "alt": "Ilustração de cabeça formada por peças coloridas de quebra-cabeça"
+    },
+    {
+      "title": "Pessoas com deficiência",
+      "description": "Impedimentos de natureza física, mental, intelectual ou sensorial e a renda familiar são examinados conforme os critérios legais.",
+      "image": "/assets/pessoa-deficiencia.webp",
+      "alt": "Pessoa usando cadeira de rodas em área externa"
+    },
+    {
+      "title": "Pessoas com 65 anos ou mais",
+      "description": "O BPC pode ser devido a pessoas idosas em situação de baixa renda, mesmo sem contribuições ao INSS.",
+      "image": "/assets/pessoa-idosa.webp",
+      "alt": "Mãos de uma pessoa idosa apoiadas em uma bengala"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Criança com autismo pode receber BPC/LOAS?",
+      "answer": "Pode, desde que a avaliação confirme os requisitos relacionados à deficiência e à situação socioeconômica da família. O diagnóstico, por si só, não garante o benefício."
+    },
+    {
+      "question": "Nunca contribuí para o INSS. Posso receber BPC?",
+      "answer": "Sim. O BPC é assistencial e não exige contribuições previdenciárias, mas depende do preenchimento dos demais requisitos legais."
+    },
+    {
+      "question": "O INSS negou meu pedido. Posso contestar?",
+      "answer": "A decisão e os documentos podem ser analisados para identificar os motivos da negativa e verificar se há medidas administrativas ou judiciais cabíveis."
+    },
+    {
+      "question": "É necessário estar inscrito no CadÚnico?",
+      "answer": "A inscrição do grupo familiar no Cadastro Único, com os dados atualizados, é um dos requisitos para solicitar e manter o BPC."
+    },
+    {
+      "question": "O BPC é aposentadoria?",
+      "answer": "Não. O BPC é um benefício assistencial de um salário mínimo mensal para quem preenche os requisitos legais. Não paga 13º salário nem gera pensão por morte."
+    }
+  ],
+  "approval": {
+    "responsible": "Equipe 4Juris / Leonardo Bobeda",
+    "approved": false
+  },
+  "pending": [
+    "Revisão e aprovação final do conteúdo pelo advogado",
+    "Confirmar modalidade de atendimento antes de divulgar atendimento presencial ou remoto"
+  ]
+}
